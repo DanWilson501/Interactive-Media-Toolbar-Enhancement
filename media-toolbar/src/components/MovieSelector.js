@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import RateMovieButton from './RateMovieButton';
+import './MovieSelector.css';
 
 const MovieSelector = () => {
   const [selectedMovie, setSelectedMovie] = useState('');

@@ -1,6 +1,7 @@
 import React from 'react';
 import MovieSelector from './components/MovieSelector';
 import UploadButton from './components/UploadButton';
+import './App.css';
 
 const App = () => {
   return (

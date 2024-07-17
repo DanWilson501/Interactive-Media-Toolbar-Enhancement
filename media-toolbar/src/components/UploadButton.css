@@ -1,0 +1,10 @@
+.upload-button {
+  margin: 20px;
+  text-align: center;
+}
+
+.uploaded-image {
+  width: 200px;
+  margin-top: 10px;
+  border: 2px solid #800020;
+}

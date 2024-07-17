@@ -1,0 +1,23 @@
+.movie-selector {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+  }
+  
+  select {
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 2px solid #800020;
+    background-color: #ffcccb;
+    color: #800020;
+    font-size: 16px;
+  }
+  
+  .movie-poster {
+    width: 200px;
+    margin: 10px 0;
+    border: 2px solid #800020;
+  }
+  

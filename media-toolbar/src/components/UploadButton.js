@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import './UploadButton.css';
 
 const UploadButton = () => {
   const [uploadedImage, setUploadedImage] = useState(null);
